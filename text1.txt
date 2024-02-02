@@ -1,2 +1,5 @@
-
-city : Coimbatore
+<center>
+WELCOME
+</center>
+<h2>EVERYONE</h2>
+<hr>
